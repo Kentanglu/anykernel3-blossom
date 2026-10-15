@@ -1,5 +1,5 @@
 properties() { '
-kernel.string=Jujutsu Kernel for blossom by Nishan Najmal aka kurama9-tails on XDA
+kernel.string=Sea Kernel for blossom by Asyanx
 do.devicecheck=1
 device.name1=blossom
 device.name2=dandelion
